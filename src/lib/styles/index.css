@@ -1,0 +1,18 @@
+/* Base styles for the chatbot */
+.dify-chatbot {
+  --primary-color: #646cff;
+  --background-color: #ffffff;
+  --text-color: #213547;
+
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: var(--text-color);
+}
+
+.dify-chatbot.dark {
+  --primary-color: #747bff;
+  --background-color: #242424;
+  --text-color: rgba(255, 255, 255, 0.87);
+}
