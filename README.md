@@ -2,6 +2,9 @@
 
 一个基于 Vue 3 的 Dify AI 聊天机器人组件。
 
+⚠️ 开发中，请勿使用！！！
+⚠️ Still Not Finished! Don't use it!
+
 ## 特性
 
 - 🚀 基于 Vue 3 和 TypeScript 开发
